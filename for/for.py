@@ -73,9 +73,6 @@
 #     print(linea)
 
 
-
-
-
 #Ejercicio 9
 # numIngresado = int(input("Vamos a ver cuantos dividores tiene el numero que ponga a continuacion: "))
 # contador = 0
