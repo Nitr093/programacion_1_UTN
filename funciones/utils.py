@@ -3,7 +3,7 @@
 num_ingresado = int(input("Ingresá un numero: "))
 
 
-def nums_primos ():
+def nums_primos () -> None:
     contador = 0
     for numero_ejemplo in range(1, num_ingresado + 1, 1):        
         limite = (numero_ejemplo // 2) + 1
